@@ -1,0 +1,10 @@
+repos:
+  - repo: https://github.com/nbQA-dev/nbQA
+    rev: 1.7.0
+    hooks:
+      - id: nbqa-black
+        additional_dependencies: [black==23.3.0]
+      - id: nbqa-pyupgrade
+        additional_dependencies: [pyupgrade==2.7.3]
+      - id: nbqa-isort
+        additional_dependencies: [isort==5.12.0]
