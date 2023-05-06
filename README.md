@@ -13,3 +13,8 @@ Build real-world AI apps with ChatGPT/GPT-4 and LangChain in Python
 - [Load Custom Data with Loaders](https://www.mlexpert.io/prompt-engineering/loaders)
 - [Add AI with Models](https://www.mlexpert.io/prompt-engineering/models)
 - [Make LLMs Useful with Chains](https://www.mlexpert.io/prompt-engineering/chains)
+
+### Models
+
+- [StableVicuna - Open Source RLHF LLM Chatbot](https://www.mlexpert.io/prompt-engineering/stable-vicuna)
+- [OpenLLaMa - An Open Reproduction of LLaMA](https://www.mlexpert.io/prompt-engineering/open-llama)
