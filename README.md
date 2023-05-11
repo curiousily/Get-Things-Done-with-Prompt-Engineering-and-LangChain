@@ -13,6 +13,7 @@ Build real-world AI apps with ChatGPT/GPT-4 and LangChain in Python
 - [Load Custom Data with Loaders](https://www.mlexpert.io/prompt-engineering/loaders)
 - [Add AI with Models](https://www.mlexpert.io/prompt-engineering/models)
 - [Make LLMs Useful with Chains](https://www.mlexpert.io/prompt-engineering/chains)
+- [Build Chatbots with Memory](https://www.mlexpert.io/prompt-engineering/memory)
 
 ### Models
 
