@@ -20,3 +20,8 @@ Build real-world AI apps with ChatGPT/GPT-4 and LangChain in Python
 
 - [StableVicuna - Open Source RLHF LLM Chatbot](https://www.mlexpert.io/prompt-engineering/stable-vicuna)
 - [OpenLLaMa - An Open Reproduction of LLaMA](https://www.mlexpert.io/prompt-engineering/open-llama)
+
+### Projects
+
+- [Private GPT4All: Chat with PDF Files Using Free LLM](https://www.mlexpert.io/prompt-engineering/private-gpt4all)
+- [CryptoGPT: Crypto Twitter Sentiment Analysis](https://www.mlexpert.io/prompt-engineering/cryptogpt)
