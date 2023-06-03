@@ -9,6 +9,8 @@ Build real-world AI apps with ChatGPT/GPT-4 and LangChain in Python
 
 ## 📖 Read the Tutorials
 
+### LangChain
+
 - [LangChain Quickstart](https://www.mlexpert.io/prompt-engineering/langchain-quickstart)
 - [Load Custom Data with Loaders](https://www.mlexpert.io/prompt-engineering/loaders)
 - [Add AI with Models](https://www.mlexpert.io/prompt-engineering/models)
@@ -25,3 +27,4 @@ Build real-world AI apps with ChatGPT/GPT-4 and LangChain in Python
 
 - [Private GPT4All: Chat with PDF Files Using Free LLM](https://www.mlexpert.io/prompt-engineering/private-gpt4all)
 - [CryptoGPT: Crypto Twitter Sentiment Analysis](https://www.mlexpert.io/prompt-engineering/cryptogpt)
+- [Fine-tuning LLM on a Custom Dataset with QLoRA](https://www.mlexpert.io/prompt-engineering/fine-tuning-llm-on-custom-dataset-with-qlora)
