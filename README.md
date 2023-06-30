@@ -22,6 +22,7 @@ Build real-world AI apps with ChatGPT/GPT-4 and LangChain in Python
 
 - [StableVicuna - Open Source RLHF LLM Chatbot](https://www.mlexpert.io/prompt-engineering/stable-vicuna)
 - [OpenLLaMa - An Open Reproduction of LLaMA](https://www.mlexpert.io/prompt-engineering/open-llama)
+- [XGen-7B: Long Sequence Modeling with (up to) 8K Tokens](https://www.youtube.com/watch?v=6YMOCaXGUDA)
 
 ### Projects
 
