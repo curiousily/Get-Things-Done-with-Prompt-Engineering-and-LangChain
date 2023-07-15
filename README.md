@@ -26,6 +26,7 @@ Build real-world AI apps with ChatGPT/GPT-4 and LangChain in Python
 
 ### Projects
 
+- [Chatbot with Local LLM (Falcon 7B) and LangChain](https://www.mlexpert.io/prompt-engineering/chatbot-with-local-llm-using-langchain)
 - [Private GPT4All: Chat with PDF Files Using Free LLM](https://www.mlexpert.io/prompt-engineering/private-gpt4all)
 - [CryptoGPT: Crypto Twitter Sentiment Analysis](https://www.mlexpert.io/prompt-engineering/cryptogpt)
 - [Fine-tuning LLM (Falcon 7b) on a Custom Dataset with QLoRA](https://www.mlexpert.io/prompt-engineering/fine-tuning-llm-on-custom-dataset-with-qlora)
