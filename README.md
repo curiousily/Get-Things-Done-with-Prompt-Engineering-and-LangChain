@@ -32,3 +32,4 @@ Build real-world AI apps with ChatGPT/GPT-4 and LangChain in Python
 - [Fine-tuning LLM (Falcon 7b) on a Custom Dataset with QLoRA](https://www.mlexpert.io/prompt-engineering/fine-tuning-llm-on-custom-dataset-with-qlora)
 - [Deploy LLM to Production with HuggingFace Inference Endpoints](https://www.mlexpert.io/prompt-engineering/deploy-llm-to-production)
 - [Support Chatbot using Custom Knowledge Base with LangChain and Open LLM](https://www.mlexpert.io/prompt-engineering/support-chatbot-using-custom-knowledge-base-with-langchain)
+- [Deploy Your Private Llama 2 Model to Production with RunPod](https://www.mlexpert.io/prompt-engineering/deploy-llama-2-on-runpod)
