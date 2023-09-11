@@ -7,6 +7,12 @@ Build real-world AI apps with ChatGPT/GPT-4 and LangChain in Python
 [![](https://img.shields.io/youtube/channel/subscribers/UCoW_WzQNJVAjxo4osNAxd_g?label=Watch%20on%20YouTube)](https://bit.ly/venelin-subscribe)
 [![](https://img.shields.io/github/license/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain)](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain/blob/master/LICENSE)
 
+## 🍿 Watch on YouTube
+
+- [Fine-tuning Llama 2 on Your Own Dataset](https://www.youtube.com/watch?v=MDA3LUKNl1E)
+- [Deploy LLM to Production on Single GPU](https://www.youtube.com/watch?v=HI3cYN0c9ZU)
+- [Chat with Multiple PDFs using Llama 2 and LangChain](https://www.youtube.com/watch?v=QshWJ77Sktc)
+
 ## 📖 Read the Tutorials
 
 ### LangChain
@@ -23,9 +29,11 @@ Build real-world AI apps with ChatGPT/GPT-4 and LangChain in Python
 - [StableVicuna - Open Source RLHF LLM Chatbot](https://www.mlexpert.io/prompt-engineering/stable-vicuna)
 - [OpenLLaMa - An Open Reproduction of LLaMA](https://www.mlexpert.io/prompt-engineering/open-llama)
 - [XGen-7B: Long Sequence Modeling with (up to) 8K Tokens](https://www.youtube.com/watch?v=6YMOCaXGUDA)
+- [Falcon 180B](https://www.mlexpert.io/prompt-engineering/falcon-180b)
 
 ### Projects
 
+- [Fine-tuning Llama 2 on a Custom Dataset](https://www.mlexpert.io/prompt-engineering/fine-tuning-llama-2-on-custom-dataset)
 - [Chat with Multiple PDFs using Llama 2 and LangChain](https://www.mlexpert.io/prompt-engineering/chat-with-multiple-pdfs-using-llama-2-and-langchain)
 - [Chatbot with Local LLM (Falcon 7B) and LangChain](https://www.mlexpert.io/prompt-engineering/chatbot-with-local-llm-using-langchain)
 - [Private GPT4All: Chat with PDF Files Using Free LLM](https://www.mlexpert.io/prompt-engineering/private-gpt4all)
