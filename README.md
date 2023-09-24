@@ -9,6 +9,7 @@ Build real-world AI apps with ChatGPT/GPT-4 and LangChain in Python
 
 ## 🍿 Watch on YouTube
 
+- [Getting Started with LangChain and Llama 2 in 15 Minutes](https://www.youtube.com/watch?v=7VAGe32YptI)
 - [Fine-tuning Llama 2 on Your Own Dataset](https://www.youtube.com/watch?v=MDA3LUKNl1E)
 - [Deploy LLM to Production on Single GPU](https://www.youtube.com/watch?v=HI3cYN0c9ZU)
 - [Chat with Multiple PDFs using Llama 2 and LangChain](https://www.youtube.com/watch?v=QshWJ77Sktc)
@@ -17,7 +18,7 @@ Build real-world AI apps with ChatGPT/GPT-4 and LangChain in Python
 
 ### LangChain
 
-- [LangChain Quickstart](https://www.mlexpert.io/prompt-engineering/langchain-quickstart)
+- [LangChain QuickStart with Llama 2](https://www.mlexpert.io/prompt-engineering/langchain-quickstart-with-llama-2)
 - [Load Custom Data with Loaders](https://www.mlexpert.io/prompt-engineering/loaders)
 - [Add AI with Models](https://www.mlexpert.io/prompt-engineering/models)
 - [Make LLMs Useful with Chains](https://www.mlexpert.io/prompt-engineering/chains)
