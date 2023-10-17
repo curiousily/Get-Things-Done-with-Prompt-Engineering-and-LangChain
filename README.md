@@ -13,6 +13,7 @@ Build real-world AI apps with ChatGPT/GPT-4 and LangChain in Python
 - [Fine-tuning Llama 2 on Your Own Dataset](https://www.youtube.com/watch?v=MDA3LUKNl1E)
 - [Deploy LLM to Production on Single GPU](https://www.youtube.com/watch?v=HI3cYN0c9ZU)
 - [Chat with Multiple PDFs using Llama 2 and LangChain](https://www.youtube.com/watch?v=QshWJ77Sktc)
+- [AutoGen - Build Powerful AI Agents with ChatGPT/GPT-4](https://www.youtube.com/watch?v=mJfHMlKL7Qc)
 
 ## 📖 Read the Tutorials
 
@@ -43,3 +44,4 @@ Build real-world AI apps with ChatGPT/GPT-4 and LangChain in Python
 - [Deploy LLM to Production with HuggingFace Inference Endpoints](https://www.mlexpert.io/prompt-engineering/deploy-llm-to-production)
 - [Support Chatbot using Custom Knowledge Base with LangChain and Open LLM](https://www.mlexpert.io/prompt-engineering/support-chatbot-using-custom-knowledge-base-with-langchain)
 - [Deploy Your Private Llama 2 Model to Production with RunPod](https://www.mlexpert.io/prompt-engineering/deploy-llama-2-on-runpod)
+- [AutoGen - Build Powerful AI Agents with ChatGPT/GPT-4](https://www.mlexpert.io/prompt-engineering/autogen-build-ai-agents)
